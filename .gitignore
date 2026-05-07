@@ -1,0 +1,13 @@
+data/
+logs/
+__pycache__/
+results/
+checkpoints/
+.vscode/
+result.txt
+*.pyc 
+*.ini
+*.bak
+*.xlsx
+*.csv
+*.docx
