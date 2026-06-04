@@ -2,6 +2,8 @@
 
 This is the official PyTorch implementation of WaveMixerNet: A Dual-Stream Wavelet-based MLP-Mixer and CNN Architecture for Long-Term Time Series Forecasting.
 
+🚩 **News** (2026.06) 🎉 WaveMixerNet has been accepted by *Neural Networks*. 🎉
+
 🚩 **News** (2026.05) To facilitate the peer review process, we have made the complete code publicly available.
 
 🚩 **News** (2025.11) ~~The complete code will be uploaded after the paper is accepted.~~
